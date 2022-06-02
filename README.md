@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+## 🚀 About Me
+
+🎓 I'm Giovanna, software engineer at Ifood. I graduated in information systems in 2020. I worked with software quality and currently work with frontend development.
+
+🔭 I’m currently working on few **ReactJs projects**
 
 
 <div>
